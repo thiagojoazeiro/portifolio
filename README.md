@@ -1,6 +1,6 @@
 <h1>Meus projetos</h1>
 
-> Status: Em desenvolvimento <
+> Status: Em desenvolvimento 
 
 ```
 node app.js
